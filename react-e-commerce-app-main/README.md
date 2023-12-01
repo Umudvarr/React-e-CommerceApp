@@ -32,4 +32,4 @@ In the project directory, you can run:
 npm start
 ```
 
-## Thanks for lesson "Patika.dev"
+## Thanks for the lesson "Patika.dev"
